@@ -14,15 +14,3 @@
 - Uses Swing components: `JFrame`, `JTextArea`, `JScrollPane`, `JMenuBar`, `JMenu`, `JMenuItem`, `JFileChooser`.
 
 ---
-
-## ⚙️ Setup Instructions
-
-### Requirements
-- **Java 8** or later
-- Git (to clone the repository)
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/simple-notepad.git
-   cd simple-notepad
